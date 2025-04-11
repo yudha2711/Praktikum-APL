@@ -15,7 +15,7 @@ int main() {
     int loginAttempts = 0;
     int choice;
 
-    while (true) {
+    while (true) 
         cout << "\n--- SELAMAT DATANG!! ---\n";
         cout << "1. Registrasi\n2. Login\n3. Exit\nPilih: ";
         cin >> choice;
